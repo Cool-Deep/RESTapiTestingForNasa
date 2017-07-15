@@ -5,12 +5,12 @@
  *This Project contains Spring model, Maven Project and TestNG Annotation and primary language is JAVA for this
  
  
-#Problem
+# Problem
 *1.How would you certify this API for public consumption, with parameters q, limit & api_key? Create a README.md file to document your tests.GET https://api.nasa.gov/planetary/sounds
 *2.Code a few key examples to demonstrate how you can automate your tests.  I encourage you to use the following technologies (i.e. Java/Spring/TestNg/MVN)
 *3.You are a tester so please outline any unexpected issues IF noticed
 
-#Answer
+# Answer
 *Created own key from NASA/API page. As suggested in Test---> please use API key instead of DEMO_KEY
 *API Key For Testing: - https://api.nasa.gov/planetary/sounds?q&limit=10&api_key=wkbqTSuajmKguQUbvlPgWmCZIwBl3wm0hIRLSQci
 *Please check jsonpath file for response
