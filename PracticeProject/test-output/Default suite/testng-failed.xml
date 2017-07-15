@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="apiTestingForNasa.GETApiForNasa">
+        <methods>
+          <include name="validateDurationForAll"/>
+          <include name="validateForArray1ID"/>
+          <include name="validatetag_listForAll"/>
+          <include name="validatelast_modifiedForAll"/>
+        </methods>
+      </class> <!-- apiTestingForNasa.GETApiForNasa -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
